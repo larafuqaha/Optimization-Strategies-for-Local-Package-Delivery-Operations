@@ -1,0 +1,51 @@
+vehicle 50
+vehicle 70
+vehicle 500
+vehicle 50
+vehicle 300
+vehicle 100
+vehicle 50
+vehicle 70
+vehicle 100
+vehicle 30
+
+package 14 3 20 1
+package 10 12 30 2
+package 5 41 25 1
+package 8 9 10 3
+package 15 4 15 2
+package 12 63 20 1
+package 7 2 15 2
+package 89 10 25 1
+package 3 6 20 3
+package 11 5 10 2
+package 2 3 20 1
+package 10 12 30 2
+package 57 7 25 1
+package 8 37 10 3
+package 15 4 15 2
+package 12 6 20 1
+package 7 2 15 2
+package 19 30 25 1
+package 3 6 20 3
+package 11 5 10 2
+package 2 3 20 1
+package 10 12 30 2
+package 5 7 25 1
+package 8 9 10 3
+package 15 41 15 2
+package 50 6 20 1
+package 7 60 15 2
+package 14 10 25 1
+package 3 6 20 3
+package 11 5 10 2
+package 2 3 20 1
+package 10 12 30 2
+package 5 7 25 1
+package 8 9 10 3
+package 15 4 15 2
+package 12 6 20 1
+package 7 2 15 2
+package 14 10 25 1
+package 3 6 20 3
+package 11 5 10 2
