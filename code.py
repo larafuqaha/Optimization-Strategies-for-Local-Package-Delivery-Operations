@@ -6,7 +6,7 @@ import time
 
 MAX_ATTEMPTS = 500 # for SA initial solution (trying to get valid sol. up to 500 times)
 INITIAL_TEMP = 1000
-COOLING_RATE = 0.1
+COOLING_RATE = 0.8
 STOP_TEMP = 1
 ITERATIONS_PER_TEMP = 100
 POP_SIZE = 60
