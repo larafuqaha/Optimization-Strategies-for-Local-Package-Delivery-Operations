@@ -3,7 +3,7 @@
 A Python implementation of two metaheuristic optimization algorithms — **Simulated Annealing (SA)** and **Genetic Algorithm (GA)** — applied to a constrained vehicle routing and package assignment problem.
 
 **Course:** Artificial Intelligence — ENCS3340  
-**Institution:** Birzeit University, Department of Electrical and Computer Engineering  
+Department of Electrical and Computer Engineering  
 
 ---
 
