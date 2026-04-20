@@ -1,5 +1,3 @@
-#Lara Foqaha 1220071 section 4      # Dana Taher 1221240 section 1
-
 import math
 import random
 import time
